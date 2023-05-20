@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+.formulario{
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+    background-color:coral;
+    height: 50vh;
+}
+.lottie{
+    background-color:       (17, 115, 139);
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
